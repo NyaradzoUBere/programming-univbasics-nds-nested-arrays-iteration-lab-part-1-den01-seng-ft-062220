@@ -9,6 +9,6 @@ def find_even_values(src)
       if src[i][n] % 2 = 0
         p src [i] [n]
       end
-    
+    n += 
 
 end
