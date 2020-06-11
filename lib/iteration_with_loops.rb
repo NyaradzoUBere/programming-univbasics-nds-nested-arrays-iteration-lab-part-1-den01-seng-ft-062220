@@ -6,6 +6,6 @@ def find_even_values(src)
   while i < src.length do
     n = 0
     while n < src[i].length do
-      
+      if src
 
 end
